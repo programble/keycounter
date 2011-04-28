@@ -13,7 +13,7 @@ A keystroke counter for X11.
       -p, --pid-file=FILE   write PID to FILE
       -h, --help            display this help and exit
 
-If `FILE` is not preset, write keypress statistics to standard output.
+If `FILE` is not present, write keypress statistics to standard output.
 
 ## Example Output
 
